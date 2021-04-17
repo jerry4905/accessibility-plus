@@ -13,7 +13,7 @@ body {
 }
 
 /* styles applied to all header */
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -21,18 +21,18 @@ body {
 }
 
 /* styles applied to header h1 */
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 /* styles applied to header hi seo */
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 /* styles applied to header div */
-.header div {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -41,12 +41,12 @@ body {
 }
 
 /* styles applied to header div ul */
-.header div ul {
+header div ul {
     list-style-type: none;
 }
 
 /* styles applied to haeader div ul li */
-.header div ul li {
+header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -159,7 +159,7 @@ p {
 }
 
 /* styles applied to footer */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -167,6 +167,6 @@ p {
 }
 
 /* styles applied to footer h2 */
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
